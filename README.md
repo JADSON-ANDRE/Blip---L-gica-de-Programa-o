@@ -15,4 +15,5 @@ Repositório com soluções para desafios de lógica da BLIP, desenvolvidos dura
 ```bash
 node desafio1.js
 node desafio2.js
+node desafio3.js
 ```
